@@ -10,7 +10,12 @@ pip install -U langchain-clarifai
 
 And you should configure credentials by setting the following environment variables:
 
-* TODO: fill this out
+```
+export CLARIFAI_PAT="Your PAT"
+```
+
+If you don't know your PAT, please get it here: https://clarifai.com/settings/security
+
 
 ## Chat Models
 
